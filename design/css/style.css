@@ -1,0 +1,107 @@
+body {
+    margin: auto;
+    background: url("../img/messi.jpg");
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#FIFAa {
+    height: 130px;
+    margin-bottom: -55px;
+    margin-left: 42%;
+    width: 250px;
+}
+#menu {
+    margin-left: -285px;
+    margin-top: -33px;
+    width: 420px;
+}
+a {
+    text-decoration: none;
+    color: brown;
+    font-size: 17px;
+}
+#header {
+    margin-top: 10px;
+    height: 150px;
+    width: 99%;
+    background-color: #F0ECE9;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #D5CEC8;
+}
+#info {
+    background-color: #f0ece9;
+    border-color: #D5CEC8;
+    border-style: solid;
+    border-width: 8px;
+    height: 1000px;
+    margin-left: 30%;
+    margin-top: -1010px;
+    width: 60%;
+    border-radius: 15px 15px 15px 15px;
+}
+#Feed {
+    background-color: #f0ece9;
+    border-color: #D5CEC8;
+    border-style: solid;
+    border-width: 8px;
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-top: 52px;
+    width: 400px;
+    border-radius: 15px 15px 15px 15px;
+}
+#Footer {
+    background-color: #f0ece9;
+    border-color: #D5CEC8;
+    border-radius: 15px 15px 15px 15px;
+    border-style: solid;
+    border-width: 8px;
+    font-size: 18px;
+    height: 80px;
+    margin-bottom: 10px;
+    margin-left: 10%;
+    margin-top: 10px;
+    text-align: center;
+    width: 80%;
+}
+#login {
+    margin-left: 650px;
+    margin-top: 50px;
+}
+form {
+    margin-left: 1185px;
+    margin-top: -5px;
+    text-align: center;
+}
+#buttonlogin {
+    margin-left: 8px;
+    margin-top: 10px;
+}
+/*#waaromwerktditniet {*/
+    /*height: 1000px;*/
+    /*width: %;*/
+    /*background-color: #F0ECE9;*/
+    /*margin-top: 10px;*/
+    /*margin-bottom: 10px;*/
+    /*text-align: center;*/
+    /*margin-left: 10%;*/
+    /*border-radius: 10px 10px 10px 10px;*/
+    /*font-size: 18px;*/
+    /*border-style: solid;*/
+    /*border-width: 8px;*/
+    /*border-color: #DCD2D1;*/
+/*}*/
+
+#Forum {
+    background-color: #f0ece9;
+    border-color: #3fa3a3;
+    border-style: solid;
+    border-width: 8px;
+    height: 1000px;
+    margin-left: 30%;
+    margin-top: 127px;
+    width: 60%;
+}

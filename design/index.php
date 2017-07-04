@@ -14,11 +14,13 @@ include 'dbconnect.php';
 <section id="header">
     <img id="FIFAa" src="img/FIFA_Flag.svg.png">
     <a id="menu"><a href="index.php">Home |</a> <a href="topic1.php">Pagina 1 |</a> <a href="Pagina2.php">Pagina 2 |</a> <a href="Pagina3.php">Pagina 3 |</a> <a href="Pagina4.php">Pagina 4</a>
-    <section id="Login">
+
+        <section id="Login">
         <form>
             <input type="submit" value="Login"> <br>
             <input type="submit" value="Registreren">
         </form>
+
     </section>
 
      <!-- Twitter feed -->
